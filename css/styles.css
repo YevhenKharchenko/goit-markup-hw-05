@@ -783,6 +783,7 @@ ul {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 
 .modal-checkbox input[type="checkbox"]:checked + label .modal-span {
