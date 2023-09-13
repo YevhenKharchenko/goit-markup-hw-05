@@ -763,7 +763,6 @@ ul {
 
 .modal-checkbox {
   margin-bottom: 24px;
-  gap: 8px;
 }
 
 .icon-close {
@@ -792,10 +791,4 @@ ul {
 
 .modal-link {
   color: #4d5ae5;
-}
-
-.modal-span-icon {
-  width: 14px;
-  height: 14px;
-  fill: #f4f4fd;
 }
