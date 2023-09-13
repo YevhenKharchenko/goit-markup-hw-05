@@ -169,6 +169,7 @@ ul {
 
 .main-btn {
   color: #fff;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -546,6 +547,7 @@ ul {
 
 .footer-btn {
   color: #fff;
+  font-family: "Roboto", sans-serif;
   text-align: center;
   font-size: 16px;
   font-weight: 500;
@@ -791,4 +793,9 @@ ul {
 
 .modal-link {
   color: #4d5ae5;
+}
+
+input,
+textarea {
+  font-family: "Roboto", sans-serif;
 }
