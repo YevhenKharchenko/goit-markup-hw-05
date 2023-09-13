@@ -783,13 +783,7 @@ ul {
   fill: transparent;
 }
 
-.visually-hidden.checkbox:checked + .modal-span {
-  background-color: #404bbf;
-  border: none;
-  fill: #f4f4fd;
-}
-
-.visually-hidden.checkbox:checked + .modal-span-icon {
+.modal-checkbox input[type="checkbox"]:checked + label .modal-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
