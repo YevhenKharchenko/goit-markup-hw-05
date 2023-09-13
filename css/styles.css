@@ -781,10 +781,15 @@ ul {
   align-items: center;
   justify-content: center;
   fill: transparent;
-  margin-left: 8px;
 }
 
 .visually-hidden.checkbox:checked + .modal-span {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
+}
+
+.visually-hidden.checkbox:checked + .modal-span-icon {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
